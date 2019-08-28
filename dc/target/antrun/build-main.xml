@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="/Users/KLyons/Desktop/Archway/dc/target/classes/public">
+    <fileset dir="/Users/KLyons/Desktop/Archway/dc/src/main/app"/>
+  </copy>
+</target>
+</project>

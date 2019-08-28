@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.style1 {
+  font-size: large;
+  margin-bottom: 30px;
+  color: dodgerblue;
+  letter-spacing: 3px;
+  position: static;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
